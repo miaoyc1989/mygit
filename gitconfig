@@ -6,4 +6,6 @@
     email = miaoyc1989@hotmail.com
     name = miaoyc
 [core]
-    editor=vim    
+    editor=vim
+[pager]
+    branch = false
